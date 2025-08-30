@@ -14,7 +14,7 @@
 [![github readme activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sihuai2412&bg_color=00000000&color=008B8B&line=00BFFF&point=5F9EA0&area_color=1E90FF&)]()
 
 <a href="github.com/Sihuai2412">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sihuai2412&title_color=ffffff&text_color=1E90FF&icon_color=2bbc8a&bg_color=ffffff&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sihuai2412&title_color=1E90FF&text_color=1E90FF&icon_color=2bbc8a&bg_color=ffffff&langs_count=3" />
 </a>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,java,kotlin,cpp,csharp,javascript&includeNames=true)](https://github.com/Jurredr/github-widgetbox) 
